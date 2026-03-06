@@ -19,10 +19,6 @@ sections:
       creative ideas into functional digital experiences that help businesses
       grow online.
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
