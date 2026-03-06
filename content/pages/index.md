@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I am a Task-oriented Virtual Assistant with 6+ years of experience in data
       management, documentation, customer support, and operational coordination.
