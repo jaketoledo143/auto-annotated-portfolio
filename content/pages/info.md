@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ###### I am a Web Developer who specializes in building responsive and
+      # I am a Web Developer who specializes in building responsive and
       user-friendly websites. I enjoy solving problems through code and turning
       creative ideas into functional digital experiences that help businesses
       grow online.
