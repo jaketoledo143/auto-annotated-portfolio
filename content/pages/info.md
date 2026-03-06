@@ -35,6 +35,12 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    media:
+      type: ImageBlock
+      url: https://assets.stackbit.com/components/images/default/default-image.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
