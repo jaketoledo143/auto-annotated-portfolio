@@ -212,8 +212,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      jaketoledo0001\@gmail.com
+    text: |+
+      <jaketoledo0001@gmail.com> mailto:jaketoledo0001\@gmail.com
+
   - type: DividerSection
     styles:
       self:
