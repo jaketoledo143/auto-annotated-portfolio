@@ -142,7 +142,7 @@ sections:
       submitLabel: Submit 🚀
       styles:
         self:
-          textAlign: right
+          textAlign: center
     styles:
       self:
         height: auto
