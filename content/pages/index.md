@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: inset
     title: >-
       I am A Task-oriented Virtual Assistant with 6+ years of experience in data
