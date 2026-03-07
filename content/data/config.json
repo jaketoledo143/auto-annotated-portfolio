@@ -35,6 +35,14 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.facebook.com/wafu201",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "FACEBOOK",
                 "label": "FACEBOOK",
                 "url": "https://www.facebook.com/wafu201",
