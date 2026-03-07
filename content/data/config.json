@@ -32,13 +32,6 @@
                 "url": "https://www.facebook.com/wafu201",
                 "icon": "facebook",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
