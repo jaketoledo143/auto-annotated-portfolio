@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: >-
-      I am a Task-oriented Virtual Assistant with 6+ years of experience in data
+      I am A Task-oriented Virtual Assistant with 6+ years of experience in data
       management, documentation, customer support, and operational coordination.
       Experienced in following structured processes, maintaining accurate
       records, and completing repetitive tasks efficiently. Comfortable learning
