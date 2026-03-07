@@ -35,13 +35,6 @@
             },
             {
                 "type": "Social",
-                "altText": "FACEBOOK",
-                "label": "FACEBOOK",
-                "url": "https://www.facebook.com/wafu201",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
